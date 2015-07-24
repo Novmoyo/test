@@ -1,4 +1,5 @@
 aaa
 sec branch
+这次在这里master
 merge
 冲突chongtumaster
