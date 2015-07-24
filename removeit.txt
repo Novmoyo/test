@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 aaaa
 sec branch
 这次在这里master
-=======
-aaab
-sec branch
-这次在这里 sec
->>>>>>> sec
 merge
 冲突chongtumaster
