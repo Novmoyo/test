@@ -1,9 +1,5 @@
 aaa
 sec branch
-<<<<<<< HEAD
 这次在这里master
-=======
-这次在这里master
->>>>>>> sec
 merge
 冲突chongtumaster
