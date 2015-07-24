@@ -1,5 +1,5 @@
-aaa
+aaab
 sec branch
-这次在这里sec
+这次在这里 sec
 merge
 冲突chongtumaster
